@@ -1,4 +1,4 @@
-##CCM101 – Cloud Computing
+CCM101 – Cloud Computing
 
 Laboratory 10: The Enterprise Cloud Architect
 
